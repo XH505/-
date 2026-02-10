@@ -1,0 +1,1 @@
+{"name":"screen-recorder-live","version":"1.0.0","description":"تسجيل شاشة مع بث مباشر","main":"server/rtmp-restream.js","scripts":{"start":"node server/rtmp-restream.js","test":"echo \"لا يوجد اختبار حالياً\""},"dependencies":{"node-media-server":"^2.4.9","express":"^4.18.2","ws":"^8.14.2","fluent-ffmpeg":"^2.1.2"}}
